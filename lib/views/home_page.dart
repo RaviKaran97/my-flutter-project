@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
                                 borderRadius: BorderRadius.circular(12)),
                             child: Center(
                               child: Text(
-                                "Buy",
+                                "add",
                                 style: TextStyle(color: Colors.white),
                               ),
                             ),
